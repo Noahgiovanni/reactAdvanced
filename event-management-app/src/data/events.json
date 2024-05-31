@@ -1,0 +1,115 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Trampoline Party",
+      "name": "a",
+      "description": "Bounce around with your friends!",
+      "image": "https://i.pinimg.com/736x/3d/2f/af/3d2faf4e3188d34a9fcdc00df59e77b0.jpg",
+      "location": "My Backyard",
+      "startTime": "2024-04-20T18:00:00Z",
+      "endTime": "2024-04-20T20:00:00Z",
+      "categories": [
+        "games"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Laser Tag Mania",
+      "name": "a",
+      "description": "Let's play laser tag!",
+      "image": "https://www.ctvnews.ca/polopoly_fs/1.5118552.1600965663!/httpImage/image.jpg_gen/derivatives/landscape_1020/image.jpg",
+      "location": "Blinded by the Lights Laser Tag, 15 Main St.",
+      "startTime": "2024-04-22T18:30:00Z",
+      "endTime": "2024-04-22T19:30:00Z",
+      "categories": [
+        "games"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Badminton Game",
+      "name": "b",
+      "description": "Hit that shuttle!",
+      "image": "https://s3.eu-west-2.amazonaws.com/ws-activestirling/production/Badminton/_1200x630_crop_center-center_none/Badminton-3.jpg",
+      "location": "The Park",
+      "startTime": "2024-04-25T12:00:00Z",
+      "endTime": "2024-04-25T14:00:00Z",
+      "categories": [
+        "sports",
+        "games"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Yoga Session",
+      "name": "b",
+      "description": "Stretch and relax.",
+      "image": "https://ymcasouthflorida.org/wp-content/uploads/2019/12/AA2I8910-scaled.jpg",
+      "location": "Shavasana Yoga School",
+      "startTime": "2024-04-30T06:00:00Z",
+      "endTime": "2024-04-30T07:00:00Z",
+      "categories": [
+        "relaxation"
+      ]
+    },
+    {
+      "id": "7bf7",
+      "title": "test 2",
+      "description": "dit is test 2",
+      "categories": [
+        "relaxation"
+      ],
+      "startTime": "2024-05-31T15:33",
+      "endTime": "2024-05-31T15:37",
+      "location": "Den Haag",
+      "organizerName": "Delano",
+      "image": "https://clevertap.com/wp-content/uploads/2019/08/user-personas-header.jpg?w=1024",
+      "name": "ffc4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "sports"
+    },
+    {
+      "id": "2",
+      "name": "games"
+    },
+    {
+      "id": "3",
+      "name": "relaxation"
+    }
+  ],
+  "name": [
+    {
+      "id": "a",
+      "name": "Ignacio Doe"
+    },
+    {
+      "id": "b",
+      "name": "Jane Bennett"
+    },
+    {
+      "id": "9e3a",
+      "name": "dddd"
+    },
+    {
+      "id": "14c6",
+      "name": "Noah"
+    },
+    {
+      "id": "ffc4",
+      "name": "Delano"
+    },
+    {
+      "id": "7131",
+      "name": "Delano"
+    },
+    {
+      "id": "e9b5",
+      "name": "Noah"
+    }
+  ]
+}
